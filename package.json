@@ -1,0 +1,21 @@
+{
+  "name": "simple-server2",
+  "version": "1.0.0",
+  "description": "just simple-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/rubickmagic96/simple-server2.git"
+  },
+  "keywords": [
+    "simple",
+    "server",
+    "nodejs"
+  ],
+  "author": "rubickmagic96",
+  "license": "MIT"
+}
